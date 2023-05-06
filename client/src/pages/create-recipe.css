@@ -1,0 +1,48 @@
+label {
+    padding-top: 30px;
+}
+
+#create-recipe{
+    margin-bottom: -20px;
+}
+
+.create-recipe {
+    padding-top: 3;
+    width: 80%;
+    margin-top: 40px;
+    background-color: #ebf1e5;
+}
+
+#new-ingred {
+    margin-bottom: 10px;
+    border-radius: 15px;
+    border: 2px solid rgba(58, 97, 96, 0.134);
+}
+
+#add-ingred-button {
+    width: 50%;
+    scale: 0.95;
+    align-self: center;
+}
+
+#add-recipe {
+    margin-top: 30px;
+    align-self:center;
+    width: 50%;
+}
+
+
+#name, #instructions, #imageUrl, #cookingTime {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 15px;
+    border: 2px solid rgba(58, 97, 96, 0.134);
+    border-radius: 40px;
+    padding: 8px 20px;
+    width: 300px;
+}
+
+#instructions {
+    height: 90px;
+    border-radius: 10px;
+}
